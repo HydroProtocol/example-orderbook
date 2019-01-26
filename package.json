@@ -4,7 +4,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@hydro-protocol/sdk": "^1.0.1",
+    "@hydro-protocol/sdk": "^2.0.4",
     "bignumber.js": "6.0.0",
     "bintrees": "^1.0.2",
     "ts-node": "^6.0.1"
